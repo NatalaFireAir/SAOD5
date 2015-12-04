@@ -1,0 +1,61 @@
+20
+Nikita
+Kazakhstan
+46784555
+Andrey
+Bogatkov str, 55
+785412
+Natala
+Bogatkov str, 55
+54511524
+Piter
+Frunze str, 16
+7854441
+Oleg
+Titov str, 47
+45111
+Ilya
+Krasniy prt, 154
+7412548
+Olga
+Blukher str,145
+154154
+Mitya
+Dostoevskiy, 8
+785896
+Max
+Gagarin str, 15
+545745
+Goga
+Tolstoy str, 45
+48452135
+Ahmed
+Lenin str, 9
+785222302
+Lola
+Kirov str, 46
+54548744
+Mike
+Kirov str, 46
+4545482
+Wall-e
+Cosmo str, 7
+77777
+Gena
+Stalin str, 47
+369534
+Fedor
+Garanin str, 47
+45442155
+Indira
+Lomonosov str, 32
+4545151
+Kate
+Lermontov str, 18
+81458596
+Dandy
+Gogol str, 154
+6584351
+Tony Stark
+New-York
+1010011110
